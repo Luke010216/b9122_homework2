@@ -49,3 +49,6 @@ print("num. of URLs seen = %d, and scanned = %d" % (len(seen), len(opened)))
 print("List of seen URLs:")
 for seen_url in seen:
     print(seen_url)
+
+# This is the change for hw2 Q2
+print('This is a code file for webcrawler')
